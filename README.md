@@ -1,6 +1,7 @@
 # Listener Closer
-<img src="https://github.com/EvilUsers/ListenerCloser/readme_include/demonstration.gif">
-
+<div align="center">
+  <img src="./readme_include/demonstration.gif">
+</div>
 
 ![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
 
